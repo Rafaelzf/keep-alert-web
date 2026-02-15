@@ -5,7 +5,8 @@
       "WebSearch",
       "WebFetch(domain:docs.astro.build)",
       "Bash(pnpm run build:*)",
-      "Bash(firebase deploy:*)"
+      "Bash(firebase deploy:*)",
+      "Bash(pnpm build:*)"
     ]
   }
 }
