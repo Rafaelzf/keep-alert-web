@@ -1,5 +1,5 @@
 # build output
-
+dist/
 # generated types
 .astro/
 
@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Firebase cache
+.firebase/
+firebase-debug.log*
+firebase-debug.*.log
